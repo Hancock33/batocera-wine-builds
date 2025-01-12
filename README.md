@@ -2,6 +2,13 @@
 # batocera-wine-builds
 Prebuilt WINE batocera
 
+#### 12/01/2025
+
+    batocera-wine-cachyos-20250106-x86_64.tar.xz
+    batocera-wine-native-10.0-rc5-x86_64.tar.xz
+    batocera-wine-ntsync7-10.0-rc5-x86_64.tar.xz
+    batocera-wine-staging-10.0-rc5-86_64.tar.xz
+
 #### 04/01/2025
 
     batocera-wine-cachyos-20250102-x86_64.tar.xz
